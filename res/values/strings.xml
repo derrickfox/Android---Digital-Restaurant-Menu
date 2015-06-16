@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="entreeSpinner">
+        <item>Choose...</item>
+        <item>Agnolotti</item>
+        <item>Arugala Salad</item>
+        <item>Bahn Mi</item>
+        <item>Bread Pudding</item>
+        <item>Brussel Sprouts</item>
+        <item>Caesar Salad</item>   
+        <item>Curry Chicken</item>
+        <item>Dounuts</item>
+        <item>Flourless Chocolate Cake</item>
+        <item>Frites</item>
+        <item>Gyro</item>
+        <item>Milanese</item>
+        <item>Mixed Greens Salad</item>
+        <item>Mussels</item>
+        <item>Napoleon</item>
+        <item>Oreo Cheesecake</item>
+        <item>Pad Thai</item>
+        <item>Plantians and Guacomole</item>
+        <item>Popcorn</item>
+        <item>Pumpkin Chili</item>
+        <item>Quesadilla</item>
+        <item>Ravioli</item>
+        <item>Salmon</item>
+        <item>Spring Rolls</item>
+        <item>Sweet Fried Calamari</item>   
+        <item>Tacos</item>
+        <item>Tart</item>
+        <item>Trout</item>
+    </string-array>
+    
+    
+    <string name="app_name">OnGoingAppProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome_label">Welcome to AppsTrainer</string>
+    <string name="instructions_label">Spin to the item you would like to learn more about...</string>
+    <string name="cusion_label"></string>
+    <string name="appetizers_label">Appetizers</string>
+    <string name="entrees_label">Entrees</string>
+    <string name="desserts_label">Desserts</string>
+    <string name="title_activity_template">TemplateActivity</string>
+    <string name="backButton_label">Back</string>
+    <string name="buffer"></string>
+    <string name="title_activity_arugula_salad">ArugulaSalad</string>
+    <string name="arugala_salad_label">Arugala Salad</string>
+    <string name="arugala_salad_description">Fresh arugula leaves are tossed in creamy lemon vinaigrette with grape tomatoes and parmesan cheese.\n</string>
+    <string name="title_activity_agnolotti">Agnolotti</string>
+    <string name="agnolotti_description">Agnolotti</string>
+    <string name="agnoloitti_description_actual">Autumn squash stuffed agnolotti is served in a parmesan-brown butter sauce topped with pomegranate seeds, crispy sage leaves, crumbled amaretto cookie, pumpkin seeds, and shaved parmesan.\n</string>
+    <string name="title_activity_banh_mi">BanhMi</string>
+    <string name="banhmi_label">Bahn Mi</string>
+    <string name="bahnmi_description">Slow roasted turkey breast dusted with 5 spice powder on toasted ciabatta bread with pickled vegetables (carrots, jalapenos, red onion and cucumbers), fresh cilantro, lettuce, and sriracha mayo served with miso soup (miso, mushrooms, dashi, scallions).\n</string>
+    <string name="title_activity_bread_pudding">BreadPudding</string>
+    <string name="bread_pudding_label">Bread Pudding</string>
+    <string name="bread_pudding_description">Cinnamon apple bread pudding with raisin-fig jam, salted caramel ice cream, and caramel sauce\n</string>
+    <string name="title_activity_brussel_sprouts">BrusselSprouts</string>
+    <string name="brussel_sprouts_label">Brussel Sprouts</string>
+    <string name="brussel_sprouts_description">Brussels sprouts are blanched in a mixture of soy sauce, water, and salt. The Brussels are, then, dusted in rice flour and fried until very crispy. The crispy Brussels are tossed in a spicy sambal glaze and garnished with sliced scallions.</string>
+    <string name="title_activity_caeser_salad">CaeserSalad</string>
+    <string name="caesar_salad_label">Caesar Salad</string>
+    <string name="caesar_salad_description">Romaine hearts (the tender inner portion of romaine lettuce) are tossed with garlic croutons, parmesan cheese, and Caesar dressing. Our housemade Caesar dressing contains: egg yolks, anchovy filets, Dijon mustard, garlic, lemon juice, red wine vinegar, parmesan cheese, onion, Tabasco, Worcestershire, salt, black peppers, olive oil, canola oil, and capers. What separates it from others is that we blend equal parts of capers, anchovies and garlic and roast them in olive oil for an hour and a half.  This adds a very robust flavor to the dressing. </string>
+    <string name="title_activity_cake">Cake</string>
+    <string name="cake_label">Flourless Chocolate Cake</string>
+    <string name="cake_description">Flourless chocolate cake served with milk chocolate malt ice cream, raspberry sauce, and chocolate malt balls.</string>
+    <string name="title_activity_cheese_cake">CheeseCake</string>
+    <string name="cheesecake_label">Oreo Cheesecake</string>
+    <string name="cheesecake_description">Oreo cheesecake served with an oreo tuile, crumbled oreo pieces, and white chocolate ice cream\n</string>
+    <string name="title_activity_curry_chicken">CurryChicken</string>
+    <string name="curry_chicken_label">Madras Curry Chicken</string>
+    <string name="curry_chicken_description">Chicken breast is dredged in Madras style curry (Madras is a intensely flavorful and spicy curry blend from the south of India), then pan-seared and roasted. The chicken is served with Israeli couscous, diced apples, golden raisins, red onions, and arugula. It is accompanied by a honey-curry cream.</string>
+    <string name="title_activity_dounuts">Dounuts</string>
+    <string name="dounuts_label">Dounuts</string>
+    <string name="dounuts_description">Donuts: impastata ricotta, sugar, egg, baking powder, flour, amaretto, salt, cinnamon\n\tLemon sauce: lemon juice, lemoncello, egg, butter, salt\n\tRaspberry coulis: raspberry puree, pectin, sugar, lemon juice, salt\n\tChocolate sauce: chocolate, xanthan, water, sugar, corn syrup\n</string>
+    <string name="title_activity_fries">Fries</string>
+    <string name="fries_label">French Fries</string>
+    <string name="fries_description">7 oz of hand cut French fries tossed in housemade Caesar dressing, parmesan cheese, and parsley.\n</string>
+    <string name="title_activity_guacamole">Guacamole</string>
+    <string name="guacomole_label">Guacomole</string>
+    <string name="guacomole_description">Green Plantains are sliced thinly and deep fried until crispy and golden brown. The chips are then tossed in our sweet/spicy seasoning and served in a pail with a side of guacamole.</string>
+    <string name="title_activity_gyro">Gyro</string>
+    <string name="gyro_label">Marinated Lamb Gyro</string>
+    <string name="gyro_description">Grilled lamb strip loin is marinated in a Lebanese-Style marinade and served on house made pita with, tzatziki sauce, shredded lettuce, roasted tomatoes, shaved marinated onion, julienned cucumber and feta. The sandwich is served with a warm salad of chickpeas, spinach, almonds, sunflower seeds, dates, and apricots.</string>
+    <string name="title_activity_milanese">Milanese</string>
+    <string name="milanese_label">Chicken Milanese</string>
+    <string name="milanese_description">A chicken breast with the wing bone attached is breaded with flour, eggwash, and breadcrumbs mixed with parmesan, lemon zest, and parsley. It is sautéed in and then butter and oil then finished in the oven. Served with an arugula salad with lemon citronette, roasted tomato, and shaved parmesan cheese. Garnished with a grilled half lemon.</string>
+    <string name="title_activity_mixed_greens">MixedGreens</string>
+    <string name="mixed_greens_label">Mixed Greens Salad</string>
+    <string name="mixed_green_description">A mixture of Green Leaf, Red Leaf, Lola Rosa, Tongas, Batavia, and Oak lettuces is tossed with shaved carrots, radish, cucumbers, croutons, and housemade balsamic vinaigrette.</string>
+    <string name="title_activity_mussels">Mussels</string>
+    <string name="mussels_label">Mussels</string>
+    <string name="mussels_description">Prince Edward Island Mussels are gently steamed in white wine and garlic and then finished with butter and parsley. Served with our \"World Class\" garlic bread (softened butter, garlic, parmesan cheese, parsley spread onto a slices baguette and grilled on the plancha.)\n</string>
+    <string name="title_activity_napolean">Napoleon</string>
+    <string name="napolean_label">Eggplant Napoleon</string>
+    <string name="napoleon_description">Thickly sliced eggplant is layered with mozzarella, roasted tomatoes, spinach, and basil pesto and baked crispy with bread crumbs and grana padano cheese. Served over marinara and topped with basil leaf and toasted pine nuts.\n</string>
+    <string name="title_activity_pad_thai">PadThai</string>
+    <string name="pad_thai_label">Pad Thai</string>
+    <string name="pad_thai_description">Gulf shrimp and tender morsels of chicken are stir fired with rice noodles, peanuts, bean sprouts, egg, and red peppers. Served in a flavorful broth containing tamarind and fish sauce. Garnished with cilantro leaves, peanuts, and scallion.\n</string>
+    <string name="title_activity_popcorn">Popcorn</string>
+    <string name="popcorn_label">Truffle Parmesan Popcorn</string>
+    <string name="popcorn_description">Fresh popcorn is tossed in melted butter, truffle oil, and grated parmesan cheese.\n</string>
+    <string name="title_activity_pumpkin_chili">PumpkinChili</string>
+    <string name="pumpkin_chili_label">Pumpkin Chili</string>
+    <string name="pumpkin_chili_description">Sweet and spicy pumpkin and black bean chili topped with lime cream, toasted pumpkin seeds, and fresh cilantro.\n</string>
+    <string name="title_activity_quesadilla">Quesadilla</string>
+    <string name="quesadilla_label">Quesadilla</string>
+    <string name="quesadilla_description">Two six inch flour tortillas are loaded with Latin braised pork belly, bacon, Oaxaca cheese, and roasted corn and black bean salsa. The tortillas are seared, cut and served with guacamole, pice de gallo, and chipotle sour cream, all served on out three compartment Kyoto ramekin.\n</string>
+    <string name="title_activity_ravioli">Ravioli</string>
+    <string name="ravioli_label">Wild Mushroom Ravioli</string>
+    <string name="ravioli_description">Our fresh pasta dough is stuffed with minced cremini mushrooms slowly cooked with truffle oil, garlic, and grana padano cheese. At service, the raviolis are topped with our wild mushroom mix (shiitake, oyster, and beeche sautéed with garlic), white wine butter sauce, grape tomatoes, roasted garlic, and arugula. Garnished with grated truffle pecorino cheese. (Raviolis are made fresh at Lia\'s and delivered daily)\n</string>
+    <string name="title_activity_salmon">Salmon</string>
+    <string name="salmon_label">Moroccan Spiced Salmon\n</string>
+    <string name="salmon_description">A six ounce portion of salmon fillet is dusted in Moroccan spices and seared to the guest’s desired temperature. The salmon is served atop a salad of chick peas, almond, sunflower seeds, dates, apricots, and a chiffonade of spinach. The plate is accented with a carrot-infused yogurt.\n</string>
+    <string name="title_activity_spring_rolls">SpringRolls</string>
+    <string name="spring_rolls_label">Rabbit Spring Rolls</string>
+    <string name="spring_rolls_description">Two spring rolls are loaded with soy braised rabbit, cabbage slaw, and rice vermicelli noodles. The spring rolls are fried and served with a housemade thai dipping sauce.</string>
+    <string name="title_activity_sweet_calamari">SweetCalamari</string>
+    <string name="calamari_label">Sweet Fried Calamari</string>
+    <string name="calamari_description">Squid rings lightly dredged in flour, deep fried, and dusted in a sweet-spicy seasoning blend. They are accompanied by spicy aioli, lemon wedge, and mesclun greens tossed in balsamic vinaigrette.</string>
+    <string name="title_activity_tacos">Tacos</string>
+    <string name="tacos_label">Blackened Fish Tacos</string>
+    <string name="tacos_description">Wild catfish is seasoned with blackening spice and pan seared. Served in two of our housemade flour tortillas and topped with latin slaw, roasted corn-black bean relish, and avocado crema. Served with a side of crispy plantains, guacamole, and tomatillo sauce.\n</string>
+    <string name="title_activity_tart">Tart</string>
+    <string name="tart_label">Lemon Tart</string>
+    <string name="tart_description">Lemon tart made with corn ritz cracker streusel, blueberry compote, and blackberry sauce.\n</string>
+    <string name="title_activity_trout">Trout</string>
+    <string name="trout_label">Rainbow Trout</string>
+    <string name="trout_description">A six ounce fillet of rainbow trout is seared until skin is crispy and served atop a puree of celery root-thyme whipped potatoes, sautéed swiss chard, caramelized shallots, and garnished with a pomegranate buerre rouje and pomegranate seeds.</string>
+
+</resources>
